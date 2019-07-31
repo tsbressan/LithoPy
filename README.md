@@ -1,2 +1,2 @@
 # EVALUATION OF MACHINE LEARNING METHODS FOR LITHOLOGY CLASSIFICATION USING GEOPHYSICAL DATA
-Supplementary material and computer codes related to article 1
+Supplementary material and computer code related to article 1
