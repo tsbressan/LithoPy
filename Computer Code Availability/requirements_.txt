@@ -57,7 +57,7 @@ grpcio==1.12.1
 h5py==2.8.0
 heapdict==1.0.0
 holoviews==1.12.3
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 imageio==2.3.0
 imagesize==1.0.0
